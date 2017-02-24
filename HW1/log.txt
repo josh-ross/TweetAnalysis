@@ -1,0 +1,143 @@
+1485320387263: all_tweets.txt states.csv log.txt
+1485320392792: User Option 4
+1485320392792: Program Ended
+1485321151464: all_tweets.txt states.csv log.txt
+1485321155976: User Option 1
+1485321206514: User Option 4
+1485321206514: Program Ended
+1485321848691: all_tweets.txt states.csv log.txt
+1485321852085: User Option 1
+1485321869276: User Option 4
+1485321869276: Program Ended
+1485323005333: all_tweets.txt states.csv log.txt
+1485323010251: User Option 3
+1485323012876: espn
+1485323032967: User Option 4
+1485323032967: Program Ended
+1485325594585: all_tweets.txt states.csv log.txt
+1485325597759: User Option 3
+1485325599226: espn
+1485325613296: User Option 4
+1485325613296: Program Ended
+1485325761486: all_tweets.txt states.csv log.txt
+1485325763698: User Option 3
+1485325767963: New
+1485325768002: User Option York
+1485325779748: User Option 2
+1485325779750: 
+1485325782196: 2
+1485325784881: New York
+1485325791721: User Option 3
+1485325803683: New
+1485325803702: User Option York
+1485325807272: User Option 4
+1485325807272: Program Ended
+1485326044394: all_tweets.txt states.csv log.txt
+1485326046241: User Option 3
+1485326046242: 
+1485326051887: User Option 4
+1485326051887: Program Ended
+1485326582136: all_tweets.txt states.csv log.txt
+1485326584339: User Option 1
+1485326590295: User Option 2
+1485326592900: New York
+1485326596708: User Option 3
+1485326598827: New York
+1485326607562: User Option 2 California
+1485326611645: User Option 2 cal
+1485326617329: User Option 2
+1485326619541: cal
+1485326622248: california
+1485326624689: California
+1485326627489: User Option 4
+1485326627489: Program Ended
+1485372608640: all_tweets.txt states.csv log.txt
+1485372610735: User Option 1
+1485372615973: User Option 2
+1485372621345: Rhode Island
+1485372631553: User Option 2
+1485372638446: Maryland
+1485372646192: User Option 3
+1485372656365: you
+1485372696885: User Option 3
+1485372702156: where are
+1485372713601: User Option 3
+1485372717125: ya ya ya
+1485372722322: User Option 3
+1485372726145: #damn
+1485372731011: User Option 2
+1485372734653: rhode island
+1485372737614: te
+1485372742615: Alabama
+1485372745091: User Option 2
+1485372746970: New York
+1485372857418: User Option 4
+1485372857419: Program Ended
+1485372930673: all_tweets.txt states.csv log.txt
+1485372932538: User Option 5
+1485372934619: User Option 6
+1485372936507: User Option 1.
+1485372938393: User Option 1
+1485372941713: User Option .2
+1485372943397: User Option 1
+1485372952219: User Option 4
+1485372952219: Program Ended
+1485373121370: all_tweets.txt states.csv log.txt
+1485373124200: User Option 5
+1485373128479: User Option 4.5
+1485373131617: User Option 4
+1485373131617: Program Ended
+1485373251866: all_tweets.txt states.csv log.txt
+1485373254351: User Option 2
+1485373255301: a
+1485373258925: new york
+1485373261870: New York
+1485373264226: User Option 4
+1485373264226: Program Ended
+1485373292929: all_tweets.txt states.csv log.txt
+1485373294540: User Option 1
+1485373298781: User Option 2
+1485373300912: Wyoming
+1485373326277: User Option 2
+1485373328502: Nebraska
+1485373339841: User Option 3
+1485373345333: Utah
+1485373348338: User Option 2
+1485373350092: Utah
+1485373358648: User Option 4
+1485373358648: Program Ended
+1485373884410: all_tweets.txt states.csv log.txt
+1485373885798: User Option 1
+1485373888336: User Option 2
+1485373897891: North Carolina
+1485373901999: User Option 3
+1485373903767: espn
+1485373905944: User Option 4
+1485373905945: Program Ended
+1485377089137: all_tweets.txt states.csv log.txt
+1485377094751: User Option 1
+1485377104259: User Option 0
+1485377111812: User Option 0
+1485377113688: User Option 2
+1485377119350: New Jersey
+1485377138888: User Option 2
+1485377143774: South Dakota
+1485377154958: User Option 2
+1485377156656: la
+1485377159328: California
+1485377171504: User Option 3
+1485377173712: espn
+1485377176140: User Option 3
+1485377179416: apollo
+1485377182523: User Option 3
+1485377186239: eclipse
+1485377189522: User Option 3
+1485377195660: not my
+1485377198793: User Option 3
+1485377202272: president trump
+1485377206706: User Option 3
+1485377208384: trump
+1485377213427: User Option 3
+1485377216939: i
+1485377229446: User Option 4
+1485377229446: Program Ended
